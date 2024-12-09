@@ -25,9 +25,9 @@ def collectdata():
     print(otp)
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
-    mailusername = "saivardhan@codegnan.com"
-    mailpassword = "hyao dyqd lmlf bbgl"
-    from_email = "saivardhan@codegnan.com"
+    mailusername = "mansoorshaik7b@gmail.com"
+    mailpassword = "rgvk hddh wtzi yfoe"
+    from_email = "mansoorshaik7b@gmail.com"
     to_email = email
     subject = "OTP for Verification"
     body = f"The OTP for login is {otp}"
